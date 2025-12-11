@@ -1,3 +1,4 @@
+
 export function navbar() {
   return `
     <nav style="background:black;padding:12px;color:white;display:flex;gap:20px;">
@@ -8,3 +9,4 @@ export function navbar() {
     </nav>
   `;
 }
+
